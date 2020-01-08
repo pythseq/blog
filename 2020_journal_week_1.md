@@ -7,7 +7,7 @@ I found that I'm not able to retain as much of the DataCamp courses as I did wit
 - DataQuest is slightly better at teaching in a way that favors retention
 - DataQuest is slightly better at explaining the context: the ins and outs of the work a data scientist does
 
-DataCamp's exercises that follow carry you along in such a handheld way that I glide through them without retaining the knowledge that will allow me to reproduce them, no matter how hard I try to focus. Since I learn best by doing actual projects, facing problems and solving them, I decided to create simple projects to implement the concepts I'm learning as I go. This means it will take me longer to complete the course, but I think I'm going to learn more ando also have something to show for it when I finish, which motivates me a lot. 
+DataCamp's exercises carry you along in a very handheld way, which results in me I gliding through them without retaining the knowledge that will allow me to reproduce the concepts later in a real-life project, no matter how hard I try to focus. Since I learn best by doing actual projects, facing problems and solving them, I decided to create simple Jupyter Notebooks to implement the concepts I'm learning as I go. This means it will take me longer to complete the course, but I think I'm going to learn more ando also have something to show for it when I finish, which motivates me a lot. 
 
 I learnt to do this because this is how DataQuest did it: at the end of each unit they had you complete an entire project in Jupyer Notebook, which left you with ready-to-publish material. I think it's a great way to help students build a portfolio, gain confidence to carry projects from begining to end, and retain the concepts in the long term. 
 
