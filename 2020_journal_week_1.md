@@ -2,7 +2,7 @@
 
 This week I started the DataCamp track [Machine Learning Scientist With Python](https://www.datacamp.com/tracks/machine-learning-scientist-with-python). 
 
-I found that I'm not able to retain as much of the DataCamp courses as I did with DataQuest, and having spent several hours on both platforms, I came to the conclution this has to do with two things: 
+I found that I'm not able to retain as much of the DataCamp courses as I did with DataQuest, and having spent several hours on both platforms, I came to the conclusion this has to do with two things: 
 
 - DataQuest is slightly better at teaching in a way that favors retention
 - DataQuest is slightly better at explaining the context: the ins and outs of the work a data scientist does
